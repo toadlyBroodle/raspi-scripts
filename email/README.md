@@ -14,3 +14,5 @@ sender_server = "smtp.gmail.com"
 sender_port = 587
 recipient_address = "recipient@domain.com"
 ```
+
+Inspiration: https://github.com/TheOliver/send-email-with-device-ip-address
